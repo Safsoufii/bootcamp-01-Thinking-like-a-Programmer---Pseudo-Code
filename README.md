@@ -1,1 +1,1 @@
-# Bootcamp-01-Thinking-like-a-Programmer---Pseudo-Code
+# Bootcamp-02-Thinking-like-a-Programmer---Pseudo-Code
